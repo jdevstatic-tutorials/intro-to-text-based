@@ -1,4 +1,15 @@
 # Intro To Text-Based Programming
+## Objectives
+1. display knowledge of the text-based
+programming
+2. compare text-based and graphical coding
+3. utilize the text-based using the VEX VR
+4. utilize their existing programming knowledge
+and skills for the text-based programming
+5. utilize the Coral Reef Cleanup Map together
+with the text-based programming
+
+## Intro
 Graphical coding is the trend nowadays, particularly
 for students. Even the Scratch program is graphical.
 
@@ -38,9 +49,25 @@ coding patterns that is really impossible to
 be written using graphical coding.
 
 ## VEX VR Text-Based Programming
-### Thread
-### Main Thread
-### Camel Case
+### Thread And Main Thread
+A `thread` in a programming language is a 
+separate program execution. The `main` thread
+in VEX VR (the `when started` block) is 
+the main thread. Without the main thread
+all commands are just declarations.
+### Common Keywords & Symbols
+`import`    
+`def`   
+`vr_thread`   
+`#`   
+`.`   
+
+### To Camel Case Or To Not Camel Case
+What if I tell you it's just convention?
+
+Yes, the most important one is that you stick
+to one agreement.
+
 ## Useful And Valid Links
 
 <https://www.codingkids.com.au/for-teachers/visual-based-vs-text-based-programming-languages/>

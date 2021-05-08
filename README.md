@@ -18,8 +18,8 @@ programming
 3. utilize the text-based using the VEX VR
 4. utilize their existing programming knowledge
 and skills for the text-based programming
-5. utilize the Coral Reef Cleanup Map together
-with the text-based programming
+5. utilize the Coral Reef Cleanup Map through
+text-based programming
 
 ## Intro
 Graphical coding is the trend nowadays, particularly

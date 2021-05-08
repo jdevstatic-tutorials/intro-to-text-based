@@ -16,7 +16,10 @@ through character encoding: the specific
 pattern for each character expressed as bits.
 
 Graphical coding is just for beginners and 
-this was not even possible back then.
+this was just lately developed. Beginners
+back then would the original BASIC language
+but still it was text-based from
+the very start.
 
 ## Objectives
 1. display knowledge of the text-based

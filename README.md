@@ -56,12 +56,12 @@ development is composed of thousands of lines,
 others amounting to more than a million lines
 of code).
 2. The structure is limited. Programmers have
-coding patterns that is really impossible to
+coding patterns that are really impossible to
 be written using graphical coding.
 
 ## VEX VR Text-Based Programming
 VEX VR Code is based on Python while
-the RobotC is based on C.
+RobotC is based on C.
 
 From w3schools site:
 

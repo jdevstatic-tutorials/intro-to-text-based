@@ -50,12 +50,12 @@ while the core is C language. For Google,
 one is Java and the core is still C language.
 
 Again, limitations of your graphical coding:
-1. it will be very slow for a very big project
+1. It will be very slow for a very big project
 (a typical code base in the world of software
 development is composed of thousands of lines,
 others amounting to more than a million lines
-of code)
-2. the structure is limited. Programmers have
+of code).
+2. The structure is limited. Programmers have
 coding patterns that is really impossible to
 be written using graphical coding.
 

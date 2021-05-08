@@ -25,8 +25,7 @@ with the text-based programming
 Graphical coding is the trend nowadays, particularly
 for students. Even the Scratch program is graphical.
 
-Coming exactly from the words of the developers of the
-Scratch program:
+From Coding Kids site:
 
 1. Readability
 2. Ease Of Use
@@ -64,7 +63,7 @@ be written using graphical coding.
 VEX VR Code is based on Python while
 the RobotC is based on C.
 
-From `w3schools` site:
+From w3schools site:
 
 What can Python do?
 > > Python can be used on a server to create 

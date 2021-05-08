@@ -124,7 +124,6 @@ commenting
 object and its attribute For example, `dog` is an 
 object, it has the
 attribute `smell`, you will be writing that as
-
 `dog.smell`
 
 ### To Camel Case Or To Not Camel Case

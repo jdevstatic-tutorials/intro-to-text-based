@@ -122,9 +122,8 @@ will not run
 commenting
 
 `.` - the dot, a separator to separate the
-object and its attribute
-
-for example `dog` is an object, it has the
+object and its attribute For example, `dog` is an 
+object, it has the
 attribute `smell`, you will be writing that as
 
 `dog.smell`

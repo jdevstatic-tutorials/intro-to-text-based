@@ -63,7 +63,7 @@ all commands are just declarations.
 `.`   
 
 ### To Camel Case Or To Not Camel Case
-What if I tell you it's just convention?
+What if I tell you it's just a convention?
 
 Yes, the most important one is that you stick
 to one agreement.

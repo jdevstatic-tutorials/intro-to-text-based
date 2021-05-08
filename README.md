@@ -105,11 +105,29 @@ in VEX VR (the `when started` block) is
 the main thread. Without the main thread
 all commands are just declarations.
 ### Common Keywords & Symbols
-`import`    
-`def`   
-`vr_thread`   
-`#`   
-`.`   
+`import` - import commands from an existing
+library. All commands that you are dragging
+from the left pane are predefined coming
+from the internal library of VEX. Without
+this, you will manually do that.
+
+`def` - define commands, declarations, etc.,
+they are just declarations
+
+`vr_thread` - the thread that usually contains
+the main thread, without this, your program
+will not run
+
+`#` - for Python, this is the symbol to start
+commenting
+
+`.` - the dot, a separator to separate the
+object and its attribute
+
+for example `dog` is an object, it has the
+attribute `smell`, you will be writing that as
+
+`dog.smell`
 
 ### To Camel Case Or To Not Camel Case
 What if I tell you it's just a convention?

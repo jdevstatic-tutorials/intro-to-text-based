@@ -49,6 +49,9 @@ coding patterns that is really impossible to
 be written using graphical coding.
 
 ## VEX VR Text-Based Programming
+VEX VR Code is based on Python while
+the RobotC is based on C.
+
 ### Thread And Main Thread
 A `thread` in a programming language is a 
 separate program execution. The `main` thread

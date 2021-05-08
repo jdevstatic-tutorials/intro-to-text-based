@@ -1,4 +1,16 @@
 # Intro To Text-Based Programming
+The very nature of the computer is text-based.
+Graphical coding is just for beginners.
+Remember that computers will consume purely
+the binary data as it is the nature of the 
+computer but as for humans, it's really
+tedious. So, humans and computers must meet
+halfway: text that humans can easily recognize.
+
+But text will still return to binary data
+through character encoding: the specific
+pattern for each character expressed as bits.
+
 ## Objectives
 1. display knowledge of the text-based
 programming

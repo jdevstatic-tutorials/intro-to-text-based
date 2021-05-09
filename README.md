@@ -17,9 +17,9 @@ pattern for each character expressed as bits.
 
 Graphical coding is just for beginners and 
 this was just lately developed. Beginners
-back had the option to start with the 
+back then had the option to start with the 
 original BASIC language
-but still it was text-based back then.
+but still it was originally text-based.
 
 ## Objectives
 1. display knowledge of the text-based

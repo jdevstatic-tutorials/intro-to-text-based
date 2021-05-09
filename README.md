@@ -1,9 +1,9 @@
 # Intro To Text-Based Programming
 The very nature of the computer is text-based.
-Before the advent of sophisticated
-screen, all a computer can display
-are characters and even games relied much
-on pixels. Think of the command line.
+Before the advent of advanced
+screens, all a computer can display
+are characters and even early games just 
+relied much on that.
 
 Remember that computers will consume purely
 the binary data as it is the nature of the 

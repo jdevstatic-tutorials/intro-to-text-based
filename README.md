@@ -2,7 +2,8 @@
 The very nature of the computer was text-based.
 Before the advent of advanced
 screens, all a computer could display
-were characters and even early games just 
+were characters through static pixels
+and even early games just 
 relied much on that.
 
 Remember that computers will consume purely

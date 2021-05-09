@@ -35,7 +35,8 @@ text-based programming
 Graphical coding is the trend nowadays, particularly
 for students. Even the Scratch program is graphical.
 
-From Coding Kids site:
+From Coding Kids site, reasons why beginners use
+graphical coding:
 
 1. Readability
 2. Ease Of Use
@@ -59,9 +60,9 @@ used by these companies are PHP for Facebook UI,
 while the core is C language. For Google, 
 one is Java and the core is still C language.
 
-Again, limitations of your graphical coding:
+Limitations of graphical coding:
 1. It will be very slow for a very big project
-(a typical code base in the world of software
+(a typical codebase in the world of software
 development is composed of thousands of lines,
 others amounting to more than a million lines
 of code).
@@ -140,7 +141,9 @@ attribute `smell`, you will be writing that as
 What if I tell you it's just a convention?
 
 Yes, the most important one is that you stick
-to one agreement.
+to one agreement. But other parts of the
+Python code must be written in a specific way.
+And any naming convention must be succinct.
 
 ## Useful And Valid Links
 

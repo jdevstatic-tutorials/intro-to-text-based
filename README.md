@@ -57,9 +57,11 @@ in structure, is very limited while
 the text-based is not.
 
 Some text-based programming languages being
-used by these companies are PHP for Facebook UI,
-while the core is C language. For Google, 
-one is Java and the core is still C language.
+used by these companies, such as PHP for
+Facebook scripting
+while the core is C language. 
+For Google, they heavily use 
+Java and the core is still C language.
 
 Limitations of graphical coding:
 1. It will be very slow for a very big project
